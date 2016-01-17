@@ -1,0 +1,65 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+I have used FC when I used to work with Windows systems, but now work only with
+Mac OS X system and never used diff before.  I guess the only thing that would 
+be nice would be line references, so one could easily compare the locations of 
+the different changes.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+It would make it easy to return to a seciton of one's program that was working
+properly.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+Helps one to keep track of major changes in the development of a program.
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google 
+Docs does?
+
+Doing it manually means that one writes a reason for doing the commit.  
+However, doing it manually also means that one might forget to do it.
+Doing it automatically means that it gets done.
+However, doing it automatically means that one might make trvial commits.
+
+Why do you think some version control systems, like Git, allow saving multiple 
+files in one commit, while others, like Google Docs, treat each file separately?
+
+In a programming environment files can be interrelated and depend upon each
+other; whereas, when saving documents, such as a doc, that usually is not the
+case.
+
+Doing First Repository exercise using GIT:
+- return in video to 1:36
+
+Commit ID's to compare:
+f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+b0678b161fcf74467ed3a63110557e3d6229cfa6 
+
+This let's one know where changes were made from previous commits.
+
+What happens when you initialize a repository? Why do you need to do it?
+One needs to initialize a git repository in order to keep track of the  files
+in the repository.
+
+
+
+list of commits since Revert controls:
+df035382c41b4d0cda86a1aa30b53f15bef05b53 *
+25ede836903881848fea811df5b687b59d962da3 * bug
+4035769377cce96a88d5c1167079e12f30492391
+3e42136a76cf78c6c421cd720427bf6337c2d623
+3884eab839af1e82c44267484cf2945a766081f3
+
+How might using version control make you more confident to make changes that could break something?
+It allows one to backstep to the version that worked without the bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Use workspace to keep track of course work.
+
+
+
