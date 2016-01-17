@@ -61,5 +61,10 @@ It allows one to backstep to the version that worked without the bug.
 Now that you have your workspace set up, what do you want to try using Git for?
 Use workspace to keep track of course work.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+I am not too sure.  The working directory is where the original files are located
+ in their original form.  The staging area is in the working directory and flags
+  the files that will be committed.  The repository contains the files committed.
+ 
 
