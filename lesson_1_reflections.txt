@@ -76,3 +76,5 @@ Developing experimental changes to code, to see how they work.
 How do the diagrams help you visualize the branch structure?
 It helps understanding the evolution of the different branches.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It brings experimental changes into the main program.  Shows the branches.
