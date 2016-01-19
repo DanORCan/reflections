@@ -46,6 +46,9 @@ What happens when you initialize a repository? Why do you need to do it?
 One needs to initialize a git repository in order to keep track of the  files
 in the repository.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Requires practise in order to understand what is happening.
+
 
 
 list of commits since Revert controls:
